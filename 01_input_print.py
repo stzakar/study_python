@@ -1,2 +1,2 @@
-name = input ("Как тя звать? =)")
+name = input ("Как тя звать? =) ")
 print (f"Привет, {name}!")

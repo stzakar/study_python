@@ -26,8 +26,9 @@ for x in 1,5,2,4,3:
 print("генератор арифметической прогрессии")
 for i in range(1,11,2):
     print(i)
-
+#функция len сама вычислит длинну массива 
 arr=['One','Two','Three','Four','Five','Six']
 for j in range(len(arr)):
-    print(arr[j])
-    print(type(arr))
+    print (arr[j])
+    print (type(arr))
+    
