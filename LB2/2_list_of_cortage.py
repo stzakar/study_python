@@ -1,7 +1,7 @@
 import turtle
 lisofc = [(50,60),(50,60),(50,60),(50,60),(50,60),(50,60)]
 
-#---------Method I---------#
+# #---------Method I---------#
 # for i in range(len(lisofc)):
 #     tm = lisofc[i] # присвоение списка котежей
 #     lenght,turn = lisofc[i] #распаковка списка котрежа

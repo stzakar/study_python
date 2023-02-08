@@ -2,4 +2,4 @@
 *.jpg
 *.txt
 imports/__pycache__/
-tr/__pycache__/
+trt/__pycache__/

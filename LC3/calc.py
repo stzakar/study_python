@@ -6,3 +6,4 @@ print(int('Z3F',base=36))
 x=127
 print(bin(x))
 print(oct(x))
+print(hex(x))

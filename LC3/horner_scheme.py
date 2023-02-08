@@ -1,4 +1,5 @@
 
+#схема Горнера
 ER_BASE=3
 ER_NUM=4
 revnum=''
